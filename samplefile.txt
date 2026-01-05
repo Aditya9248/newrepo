@@ -1,2 +1,3 @@
 hello this is firast line
 changes done from vs  code
+changhes made from git if you are sseing this in vs so i learned pull request succefully
